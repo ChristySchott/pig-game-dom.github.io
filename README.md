@@ -37,4 +37,7 @@ Jogo desenvolvido durante o curso The Complete Java Script para treinar manipula
 
 5. The first player to reach 100 points on GLOBAL score wins the game
 
+## Jogar
+
+Para jogar bastar clicar [aqui](https://christyschott.github.io/pig-game-dom.github.io/).
 
