@@ -35,7 +35,7 @@ Jogo desenvolvido durante o curso The Complete Java Script para treinar manipula
 
 4. The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 
-5. The first player to reach 100 points on GLOBAL score wins the game
+5. The first player to reach the fial score wins the game
 
 ## Jogar
 
