@@ -2,7 +2,7 @@
 
 Jogo desenvolvido durante o curso The Complete Java Script para treinar manipulação da DOM com o JS. 
 
-![Game](https://github.com/ChristySchott/pig-game-dom.github.io/blob/master/game.PNG)
+![Game](https://github.com/ChristySchott/pig-game-dom.github.io/blob/master/pig-game.PNG)
 
 
 ## Aprendizados
